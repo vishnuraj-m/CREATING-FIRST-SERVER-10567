@@ -1,0 +1,19 @@
+{
+  "name": "creating-first-server-10567",
+  "version": "1.0.0",
+  "description": "Our first node.js server",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vishnuraj-m/CREATING-FIRST-SERVER-10567.git"
+  },
+  "author": "Vishnuraj M",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vishnuraj-m/CREATING-FIRST-SERVER-10567/issues"
+  },
+  "homepage": "https://github.com/vishnuraj-m/CREATING-FIRST-SERVER-10567#readme"
+}
